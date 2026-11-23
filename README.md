@@ -25,7 +25,6 @@ I'm interested in AI research, computer vision engineering, and practical softwa
 
 ## Selected projects
 
-- **[Let It Snow](https://github.com/tasvirlab/let-it-snow)** — An interactive desktop application for Windows and macOS, built using JavaScript and Electron.
 - **3D Human Pose Estimation** — Master's research on deep learning-based human motion reconstruction and ergonomic assessment.
 - **Quadruped Robot Mapping** — Exploration of LiDAR-based spatial mapping and digital twin workflows.
 
