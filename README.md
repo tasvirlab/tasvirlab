@@ -1,44 +1,18 @@
 # Azizbek Kakhkharov
 
-**AI Research Engineer | Computer Vision | Human Pose Estimation | Robotics**
+**AI & Computer Vision Engineer**
 
-I'm a graduate researcher and M.Sc. candidate in Civil Engineering at Dong-A University, South Korea. My work focuses on applying computer vision and deep learning to human motion analysis, robotics, and construction automation.
+Graduate researcher at Dong-A University, South Korea. I build computer vision systems and practical software, from motion capture and 3D pose estimation to on-device AI.
 
-I'm interested in AI research, computer vision engineering, and practical software development opportunities in South Korea.
+[Portfolio](https://tasvirlab.pages.dev/) · [Publication](https://doi.org/10.3390/buildings16050962)
 
-## Research & engineering
+### Selected work
 
-- **Human pose estimation:** 2D/3D pose reconstruction, model training, fine-tuning, domain adaptation, and quantitative validation.
-- **Applied AI:** Anatomical motion analysis, ergonomic risk assessment, and safety-oriented application prototypes.
-- **Robotics:** Quadruped robots, LiDAR-inertial mapping, SLAM, point clouds, and Scan-to-BIM.
-- **Software development:** Web design, frontend development, mobile application prototyping, and cross-platform desktop applications.
+- **[ViconMoCap Sync Studio](https://github.com/tasvirlab/vicon-mocap-sync)** — Camera calibration, motion capture synchronization and AI dataset engineering.
+- **Safety AI** — On-device 3D pose estimation and ergonomic assessment for Android. Research prototype under development.
 
-## Technical toolkit
+### Technologies
 
-| Area | Technologies |
-| --- | --- |
-| AI & computer vision | Python, PyTorch, OpenCV, RTMPose, PoseMamba |
-| Robotics & 3D | ROS, Unitree Go2 EDU, FAST-LIO, LiDAR, CloudCompare |
-| Application development | JavaScript, Electron, UI/UX design |
-| Engineering & design | AutoCAD, Revit, BIM, 3ds Max |
-| AI-assisted development | Claude Code, OpenAI Codex |
+`Python` `PyTorch` `OpenCV` `ONNX Runtime` `C++` `Kotlin` `TypeScript` `ROS`
 
-## Selected projects
-
-- **3D Human Pose Estimation** — Master's research on deep learning-based human motion reconstruction and ergonomic assessment.
-- **Quadruped Robot Mapping** — Exploration of LiDAR-based spatial mapping and digital twin workflows.
-
-Research project demonstrations and documentation will be added as they become available for public release.
-
-## Publication
-
-*Quadruped Robots in Construction Automation: A Comprehensive Review of Applications, Localization, and Site-Level Operations.*  
-**Buildings**, March 2026.
-
-## Education
-
-- **Dong-A University** — M.Sc. in Civil Engineering (expected February 2027)
-- **Hongik University** — International Exchange Student, Architecture
-- **Tashkent University of Architecture and Civil Engineering** — Bachelor's Degree in Architecture
-
-**Based in South Korea · Open to AI, Computer Vision, Robotics, and R&D opportunities.**
+Open to engineering and R&D opportunities.
