@@ -9,8 +9,8 @@ Graduate researcher at Dong-A University, South Korea. I build computer vision s
 ### Selected work
 
 - **[ViconMoCap Sync Studio](https://github.com/tasvirlab/vicon-mocap-sync)**: Camera calibration, motion capture synchronization and AI dataset engineering.
-- **Safety AI**: On-device 3D pose estimation and ergonomic assessment for Android. *Under development.*
-- **iHomeScan**: Native iOS application for LiDAR room capture and parametric floor-plan editing. *Under development.*
+- **[Safety AI](https://github.com/tasvirlab/safety-ai)**: On-device 3D pose estimation and ergonomic assessment for Android. *Under development.*
+- **[iHomeScan](https://github.com/tasvirlab/iHomeScan)**: Native iOS application for LiDAR room capture and parametric floor-plan editing. *Under development.*
 
 ### Technologies
 
