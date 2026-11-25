@@ -9,7 +9,7 @@ Graduate researcher at Dong-A University, South Korea. I build computer vision s
 ### Selected work
 
 - **[ViconMoCap Sync Studio](https://github.com/tasvirlab/vicon-mocap-sync)** — Camera calibration, motion capture synchronization and AI dataset engineering.
-- **Safety AI** — On-device 3D pose estimation and ergonomic assessment for Android. Research prototype under development.
+- **Safety AI** - On-device 3D pose estimation and ergonomic assessment for Android. Research prototype under development.
 
 ### Technologies
 
